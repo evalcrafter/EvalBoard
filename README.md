@@ -12,7 +12,7 @@ To run VideoBoard locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/videoboard.git
+   git clone https://github.com/evalcrafter/EvalBoard
    ```
 
 2. Navigate to the project directory:
